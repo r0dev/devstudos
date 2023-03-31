@@ -168,6 +168,13 @@ ul li a:hover {
   background: var(--highlight-color);
 }
 
+#ibf  {
+  display: flex;
+  text-align: center;  /*ALINHAMENTO DE TEXTO */
+  font-size: 14px;
+  justify-content: center;
+
+}
 footer {
   padding: 23px 0;
   text-align: center;  /*ALINHAMENTO DE TEXTO */
