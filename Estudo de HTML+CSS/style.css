@@ -1,0 +1,9 @@
+.box {
+
+background: rgb(250,74,0);
+background: linear-gradient(270deg, rgba(250,74,0,1) 0%, rgba(51,15,0,1) 27%, rgba(0,0,0,1) 63%, rgba(250,74,0,1) 100%, rgba(250,74,0,1) 100%);
+
+}
+
+background: rgb(250,74,0);
+background: linear-gradient(270deg, rgba(250,74,0,1) 0%, rgba(51,15,0,1) 27%, rgba(0,0,0,1) 63%, rgba(250,74,0,1) 100%, rgba(250,74,0,1) 100%);
